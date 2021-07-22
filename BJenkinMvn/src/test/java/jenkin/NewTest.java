@@ -33,6 +33,7 @@ Logger log=Logger.getLogger(NewTest.class);
 		  @Test
 		  public void main()
 		  {
+			  
 			System.out.println(driver.getCurrentUrl());
 		  }
 		  @AfterSuite
