@@ -10,6 +10,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 public class NewTest {
+	
     WebDriver driver=null;
 Logger log=Logger.getLogger(NewTest.class);
 		  @BeforeSuite
